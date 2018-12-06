@@ -1,0 +1,33 @@
+{
+  "name": "bvplayer",
+  "version": "1.0.0",
+  "description": "h5 video player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingchaofang/bvplayer.git"
+  },
+  "keywords": [
+    "video",
+    "player"
+  ],
+  "author": "jingchaofang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jingchaofang/bvplayer/issues"
+  },
+  "homepage": "https://github.com/jingchaofang/bvplayer#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-flow": "^7.0.0",
+    "flow-bin": "^0.79.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0"
+  }
+}
